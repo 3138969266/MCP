@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "file-browser": {
+      "command": "python",
+      "args": ["-u", "d:\\code\\Repo\\MCP\\MCP\\file_browser.py"]
+    }
+  }
+}
